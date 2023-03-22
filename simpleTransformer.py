@@ -1,3 +1,5 @@
+# This program is an attempt to simplify minGPT as much as possible for the sake of easily educating the public about transformers.
+
 # Audio notes
 # One example of an audio summarization technique is to use a neural network to learn a compressed representation of the audio signal. The network can be trained on a large dataset of audio signals, with the goal of learning a compact and informative representation of each signal. The resulting representations can then be used as tokens for downstream tasks such as speech recognition or music classification.
 # Save the min, max, and closest to mean for each segment and then reconstruct it 
